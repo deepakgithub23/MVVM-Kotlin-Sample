@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mvvmtestprojectdetail</string>
+    <string name="loading_project">Loading projects...</string>
+    <string name="project_name">Project Name</string>
+    <string name="project_description">Project Description</string>
+    <string name="project_langugae">Project Language</string>
+    <string name="languages">Language: %s</string>
+    <string name="project_watchers">Project Watcher</string>
+    <string name="watchers">WatchersL %s</string>
+    <string name="open_issues">Open issues</string>
+    <string name="openIssues">Issues %s</string>
+    <string name="created_at">Created at</string>
+    <string name="createdat">Created at %s</string>
+    <string name="updated_at">Updated at</string>
+    <string name="updatedat">Updated at %s</string>
+    <string name="clone_url">Clone Url</string>
+    <string name="cloneurl">Clone URL %s</string>
+    <string name="name_project">Name of the project</string>
+    <string name="loading_projects">Loading Orojects...</string>
+    <string name="google_github_projects">Google Github Projects</string>
+    <string name="project_list">Project List</string>
+
+
+</resources>
